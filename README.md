@@ -1,1 +1,1 @@
-# Ethnus-Task-1
+# Ethnus-task-1
